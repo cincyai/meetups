@@ -13,6 +13,6 @@
 
 ### AI made simple with IBM PowerAI Vision
 
-> This month we have Srini Chitiveli from IBM to demonstrate IBM PowerAI Vision.
+> This month we have [Srini Chitiveli](../speakers/srini-chitiveli.md) from IBM to demonstrate IBM PowerAI Vision.
 
 > IBM PowerAI Vision is an offering that provides a complete ecosystem for labeling datasets, training deep learning models, validating and inferring from models that reap insights from images and videos The session identifies capabilities relevant to several personas including Domain experts, application developers and data scientists who play crucial roles in deploying AI solutions. We will demonstrate our click through interface that enables domain experts to train models for AI.
